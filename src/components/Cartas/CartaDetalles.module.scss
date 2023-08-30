@@ -1,0 +1,25 @@
+.cartas{
+    border: 2px solid rgb(219, 127, 6);
+    border-radius: 10px;
+    columns: 2;
+}
+
+.cartas:hover{
+    box-shadow: 0 0 20px rgb(219, 127, 6);
+    cursor: pointer;
+}
+
+.img {
+    border-radius: 10px;
+}
+
+.contenido{
+    padding: 10px;
+}
+
+.badge{
+    top: 20px;
+    right: 20px;
+    font-size: 17px;
+}
+
